@@ -15,3 +15,20 @@ This dashboard provides a mobile-friendly interface to track KPIs such as:
 - Customer engagement trends
 - Daily revenue & conversion metrics
 - Product performance analysi
+
+## 📱 Mobile Optimization
+
+- Custom layouts built using Power BI Mobile View  
+- Optimized for vertical scrolling  
+- Visuals adjusted for screen ratios (16:9 and 19.5:9)  
+
+---
+
+## 🧰 Tools & Technologies
+
+| Tool | Purpose |
+|------|----------|
+| Power BI Desktop | Data modeling & dashboard design |
+| DAX | Measures & calculations |
+| Power Query | Data cleaning & transformation |
+| Excel / SQL | Data source management |
